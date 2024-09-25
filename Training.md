@@ -12,7 +12,7 @@
 
 1. 
 
-2. 
+2.  ![Homework algoritm](HW1.jPG) 
 
 3. 
 
