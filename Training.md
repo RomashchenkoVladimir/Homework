@@ -52,5 +52,5 @@ Table
 
 Conflict
 
-add conflict resiolution 1+2
+
 
