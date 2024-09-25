@@ -4,6 +4,7 @@
 
 
 1. Lectures 
+link to the algorithms (https://htmlacademy.ru/blog/js/algorithm)
 
 
 2. Practice 
