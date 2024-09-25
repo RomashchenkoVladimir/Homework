@@ -18,7 +18,7 @@ link to the algorithms (https://htmlacademy.ru/blog/js/algorithm)
 
 2.  ![Homework algoritm](HW1.jPG) 
 
-3. 
+3. ![Homework algorithm 3](HW3.jpg)
 
 
 ## Introduction to version control
