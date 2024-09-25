@@ -26,7 +26,7 @@ link to the algorithms (https://htmlacademy.ru/blog/js/algorithm)
 1. *Lectures*
 
 
-
+The concept of version control, setting up software, syntax, MD language and working in GIT was studied.
 
 
 2. *Practice*
