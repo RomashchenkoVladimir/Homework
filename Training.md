@@ -7,6 +7,8 @@
 
 link to the algorithms (https://htmlacademy.ru/blog/js/algorithm)
 
+>An algorithm is a set of instructions for solving a problem.
+
 
 2. Practice 
 
