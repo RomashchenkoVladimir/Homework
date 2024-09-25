@@ -52,4 +52,5 @@ Table
 
 Conflict
 
-conflict resiolution
+add conflict resiolution
+
