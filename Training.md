@@ -49,3 +49,7 @@ Table
 | Algorithm | + + |
 | VC | + - |
 
+
+Conflict
+
+conflict resiolution
