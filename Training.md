@@ -29,7 +29,7 @@ The structure of the algorithms, the principle of operation, ***syntax***, and d
 1. *Lectures*
 
 
-
+The concept of version control, setting up software, syntax, MD language and working in GIT was studied.
 
 
 2. *Practice*
