@@ -53,4 +53,8 @@ Table
 Conflict
 
 
+<<<<<<< HEAD
 sdd conflict 1+2
+=======
+add conflict resolution
+>>>>>>> conflict2
