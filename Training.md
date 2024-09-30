@@ -56,3 +56,5 @@ Conflict
 add conflict resolution
 
 Github
+
+information from the local repository was synchronized successfully, checking in the opposite direction
