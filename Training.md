@@ -58,3 +58,7 @@ add conflict resolution
 Github
 
 information from the local repository was synchronized successfully, checking in the opposite direction
+
+
+В приложенном файле, проделана работа по применению основных функций по работе с Git, применения синтаксиса MD,создание веток и их слияние с основной веткой, проделана работа по освоению работы с GitHub.
+Проделаные действия видны git log --all --graf
